@@ -81,15 +81,8 @@ docker run -p 8080:8080 --env-file .env prasad584/image-steganography-backend:la
 
 ## 👥 Contributors (v1 Team)
 
-- [K. Anusha](https://github.com/Anusha2456)
-- [P. Navanitha](https://github.com/PothugantiNavanitha)
-- T. Eshwar
-- [A. PremSai](https://github.com/Premsaibm)
-- E. Sreeja
-- [A. Sri Ram Teja](https://github.com/SriRamTejaArige)
-- P. Sahruday
-- G. Abhishek
-- [Reddy Leela Venkata Krishna Prasad](https://gitlab.com/prasad584)
+- [Hema Prakash Reddy]
+- [Reddy Leela Venkata Krishna Prasad]
 
 ***
 
